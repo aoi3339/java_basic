@@ -1,6 +1,6 @@
 package chapter_04.section_4_3;
 
-Public class StudyLogAi {
+public class StudyLogAi {
     public static void main(String[] args) {
         System.out.println("Javaの学習を始めました。");
         System.out.println("この章では、プログラムの基本構造を学びます。");
